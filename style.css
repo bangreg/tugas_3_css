@@ -1,0 +1,29 @@
+table.p_pertama{
+  background-color: chocolate;
+  color: black;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+table.p_kedua{
+  background-color: blue;
+  color: white;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+table.p_tiga{
+  background-color: white;
+  color: black;
+  font-family: "Courier New", Georgia, Arial, "Times New Roman";
+  font-size: 20px;
+  border-collapse: collapse;
+  border: 1px solid grey;
+}
+table.p_empat{
+  background-color: grey;
+  color: black;
+  font-family: "Times New Roman","Courier New", Georgia, Arial;
+  font-size: 20px;
+  font-weight: bold;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
